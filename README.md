@@ -1,2 +1,2 @@
-# 0010CompsciProject
-project for class 
+# CompsciProject
+project for class to do git hub and work in groups 
